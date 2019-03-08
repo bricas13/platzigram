@@ -1,0 +1,2 @@
+# platzigram 
+ejercicio de javascrip
